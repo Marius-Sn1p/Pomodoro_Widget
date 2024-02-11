@@ -13,19 +13,19 @@ This Pomodoro Widget is a simple, effective time management tool to help you boo
 #### Prerequisites:
 Before you run this app, make sure you have Python and Tkinter installed on your machine. Tkinter is included with Python from Python 3.1+, so there's no need for a separate installation for most users.
 
-#### Usage
+#### Usage:
 * Start Timer: Click on the "Start" button to begin the timer cycle.
 * Reset Timer: Resets the timer and session counter. Use this to start a new cycle at any time.
 * Close App: Click the "X" button to close the application.
   
-#### Customization
+#### Customization:
 To customize the timer durations, edit the following constants in the script:
 
 * WORK_MIN: Length of a work session in minutes.
 * SHORT_BREAK_MIN: Length of a short break in minutes.
 * LONG_BREAK_MIN: Length of a long break in minutes.
 
-### Contributing
+### Contributing:
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
